@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name Project)(type Legacy)(uri ${KIPRJMOD}/symbol.lib)(options "")(descr "All symbols contained in this project"))
-  (lib (name bms-8s50-ic-rescue)(type Legacy)(uri ${KIPRJMOD}/bms-8s50-ic-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "Project")(type "Legacy")(uri "${KIPRJMOD}/symbol.lib")(options "")(descr "All symbols contained in this project"))
+  (lib (name "bms-8s50-ic-rescue")(type "KiCad")(uri "${KIPRJMOD}/bms-8s50-ic-rescue.kicad_sym")(options "")(descr ""))
 )
